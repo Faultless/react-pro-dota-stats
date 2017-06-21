@@ -1,0 +1,23 @@
+{
+  "name": "react-pro-dota-stats",
+  "version": "1.0.0",
+  "description": "A Visualizer for Pro dota 2 players stats using React as well as D3.js and GraphQL for the backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faultless/react-pro-dota-stats.git"
+  },
+  "keywords": [
+    "React",
+    "D3.JS"
+  ],
+  "author": "Serge R. Kamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Faultless/react-pro-dota-stats/issues"
+  },
+  "homepage": "https://github.com/Faultless/react-pro-dota-stats#readme"
+}
